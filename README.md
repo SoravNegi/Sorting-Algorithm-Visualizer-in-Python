@@ -6,7 +6,5 @@ The human brain can easily process visuals instead of long codes to understand t
 2. click generate to create a random array.
 3. Choose your desired algorithms from dropdown menu.
 4. click sort.
-5. click stop to interrupt sorting  algorithm.
-6. click exit to stop program.
 
 **Note-** Please do not interrupt program while sorting or it can cause an crash.
