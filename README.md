@@ -7,4 +7,3 @@ The human brain can easily process visuals instead of long codes to understand t
 3. Choose your desired algorithms from dropdown menu.
 4. click sort.
 
-**Note-** Please do not interrupt program while sorting or it can cause an crash.
